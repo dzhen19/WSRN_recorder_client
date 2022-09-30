@@ -1,0 +1,215 @@
+BEGIN:VCALENDAR
+PRODID:-//Google Inc//Google Calendar 70.9054//EN
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:wsrn.swarthmore@gmail.com
+X-WR-TIMEZONE:America/New_York
+BEGIN:VEVENT
+DTSTART:20221002T210000Z
+DTEND:20221002T220000Z
+DTSTAMP:20220925T162817Z
+ORGANIZER;CN=wsrn.swarthmore@gmail.com:mailto:wsrn.swarthmore@gmail.com
+UID:vqb4n2tm85nlpq723qogkn87vo@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=wsrn.s
+ warthmore@gmail.com;X-NUM-GUESTS=0:mailto:wsrn.swarthmore@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=tsaluj
+ a1@swarthmore.edu;X-NUM-GUESTS=0:mailto:tsaluja1@swarthmore.edu
+CREATED:20220923T122614Z
+DESCRIPTION:Event Name: WSRN FALL 2022\n\nLocation: Parrish 4th\n\nWhat is 
+ the name of your show?: Labor\n\nWhat is your show about? : Labor\n\nIf you
+  are doing your show with anyone else\, please list their names and emails 
+ ex. Adam Smith <asmith@swarthmore.edu>\, Immanuel Kant <ikant@swarthmore.ed
+ u>: TBD\n\nNeed to make changes to this event?\nCancel: https://calendly.co
+ m/cancellations/865dd6f3-0b7a-4dc1-a251-1697456699ee\nReschedule: https://c
+ alendly.com/reschedulings/865dd6f3-0b7a-4dc1-a251-1697456699ee\n\nPowered b
+ y Calendly.com\n
+LAST-MODIFIED:20220923T122614Z
+LOCATION:Parrish 4th
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Tarang Saluja and Derrick Zhen
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220927T003000Z
+DTEND:20220927T013000Z
+DTSTAMP:20220925T162817Z
+ORGANIZER;CN=wsrn.swarthmore@gmail.com:mailto:wsrn.swarthmore@gmail.com
+UID:r9i51r4si1amp9ggmt6sfnqdk0@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=zsperd
+ u1@swarthmore.edu;X-NUM-GUESTS=0:mailto:zsperdu1@swarthmore.edu
+CREATED:20220920T013016Z
+DESCRIPTION:<html-blob>The Willets basement is quite the crew! Each week I 
+ will bring a new member of the basement gang to the studio and get their co
+ mmentary on my music (mostly grunge rock\, folk\, and indie my Spotify is @
+ zoesperduto). I would also allow them some time to play music of their own.
+ <br></html-blob>
+LAST-MODIFIED:20220925T162418Z
+LOCATION:Parrish 4th
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Basement Rats!
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220927T233000Z
+DTEND:20220928T003000Z
+DTSTAMP:20220925T162817Z
+ORGANIZER;CN=wsrn.swarthmore@gmail.com:mailto:wsrn.swarthmore@gmail.com
+UID:oet70mkspk7beio984dvirp7mg@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=gmckai
+ g1@swarthmore.edu;X-NUM-GUESTS=0:mailto:gmckaig1@swarthmore.edu
+CREATED:20220921T205535Z
+DESCRIPTION:<html-blob>Mostly rock songs<br><br></html-blob><span style="ba
+ ckground-color: var(--textfield-surface)\; color: var(--on-surface)\;">Othe
+ r hosts: Arthur Russell</span>
+LAST-MODIFIED:20220925T162450Z
+LOCATION:Parrish 4th
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:World of Echo
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220928T020000Z
+DTEND:20220928T030000Z
+DTSTAMP:20220925T162817Z
+ORGANIZER;CN=wsrn.swarthmore@gmail.com:mailto:wsrn.swarthmore@gmail.com
+UID:9mrkshn3vv23g8odsh5rvkf0us@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=hdwork
+ i1@swarthmore.edu;X-NUM-GUESTS=0:mailto:hdworki1@swarthmore.edu
+CREATED:20220919T204704Z
+DESCRIPTION:<html-blob>I'm going to have a theme every week\, probably base
+ d on genres or a single band if I'm really feeling it. Also open to suggest
+ ions if you want something more specific that this!<br><br></html-blob>
+LAST-MODIFIED:20220925T162509Z
+LOCATION:Parrish 4th
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Hope You Like It
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220929T150000Z
+DTEND:20220929T160000Z
+DTSTAMP:20220925T162817Z
+ORGANIZER;CN=wsrn.swarthmore@gmail.com:mailto:wsrn.swarthmore@gmail.com
+UID:usv674vqgkd4o2r2ee9g14t950@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=wsrn.s
+ warthmore@gmail.com;X-NUM-GUESTS=0:mailto:wsrn.swarthmore@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ma
+ damsm1@swarthmore.edu;X-NUM-GUESTS=0:mailto:madamsm1@swarthmore.edu
+CREATED:20220920T023827Z
+DESCRIPTION:<html-blob>Sharing the music I love with awesome new people :)<
+ br><br></html-blob>
+LAST-MODIFIED:20220925T162533Z
+LOCATION:Parrish 4th
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Mad Mill’s mixtape
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220929T170000Z
+DTEND:20220929T180000Z
+DTSTAMP:20220925T162817Z
+ORGANIZER;CN=wsrn.swarthmore@gmail.com:mailto:wsrn.swarthmore@gmail.com
+UID:iqhuivp32ngen5rnr6qip4numc@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=scohen
+ 2@swarthmore.edu;X-NUM-GUESTS=0:mailto:scohen2@swarthmore.edu
+CREATED:20220920T000157Z
+DESCRIPTION:<html-blob>Tune in to hear whatever I'm listening to this week.
+  Baseline is chill indie music like Faye Webster\, but it can go more garag
+ e rock like Harlem\, or more pop like Danny and Alex. Don't be surprised if
+  there's a lot of 60s-70s folk and girl groups.<br></html-blob>
+LAST-MODIFIED:20220925T162554Z
+LOCATION:Parrish 4th
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Purportedly with Stella Cohen
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220930T000000Z
+DTEND:20220930T010000Z
+DTSTAMP:20220925T162817Z
+ORGANIZER;CN=wsrn.swarthmore@gmail.com:mailto:wsrn.swarthmore@gmail.com
+UID:2u7551mq2akm8frtn1ervqjktl@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=gt
+ revin1@swarthmore.edu;X-NUM-GUESTS=0:mailto:gtrevin1@swarthmore.edu
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=wsrn.s
+ warthmore@gmail.com;X-NUM-GUESTS=0:mailto:wsrn.swarthmore@gmail.com
+X-GOOGLE-CONFERENCE:https://meet.google.com/jzo-ceni-ecy
+CREATED:20220919T202324Z
+DESCRIPTION:Pop culture and things<br><br>Other hosts:&nbsp\;<span style="b
+ ackground-color: var(--textfield-surface)\; color: var(--on-surface)\;">Kay
+ la Parks</span>\n\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:
+ ~:~:~:~:~:~:~:~:~:~:~:~::~:~::-\nJoin with Google Meet: https://meet.google
+ .com/jzo-ceni-ecy\n\nPlease do not edit this section.\n-::~:~::~:~:~:~:~:~:
+ ~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-
+LAST-MODIFIED:20220925T162643Z
+LOCATION:Parrish 4th
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Gabby's Show
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220930T010000Z
+DTEND:20220930T020000Z
+DTSTAMP:20220925T162817Z
+ORGANIZER;CN=wsrn.swarthmore@gmail.com:mailto:wsrn.swarthmore@gmail.com
+UID:icnd41tlsrmrmc4q9555b74gi8@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=gberre
+ b1@swarthmore.edu;X-NUM-GUESTS=0:mailto:gberreb1@swarthmore.edu
+CREATED:20220919T204043Z
+DESCRIPTION:<html-blob>playing music that is good<br></html-blob>
+LAST-MODIFIED:20220925T162711Z
+LOCATION:Parrish 4th
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Swarthmore
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220930T020000Z
+DTEND:20220930T030000Z
+DTSTAMP:20220925T162817Z
+ORGANIZER;CN=wsrn.swarthmore@gmail.com:mailto:wsrn.swarthmore@gmail.com
+UID:bpciha9o8g2lqnpcgcmu1h57ro@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=jring1
+ @swarthmore.edu;X-NUM-GUESTS=0:mailto:jring1@swarthmore.edu
+CREATED:20220919T203232Z
+DESCRIPTION:<html-blob>Chill tunes interspersed with Miltonic musings.<br><
+ br></html-blob><br><html-blob>Other hosts: Kai Petkov<br><br></html-blob>
+LAST-MODIFIED:20220925T162738Z
+LOCATION:Parrish 4th
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Paradise Sauced
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220930T233000Z
+DTEND:20221001T003000Z
+DTSTAMP:20220925T162817Z
+ORGANIZER;CN=wsrn.swarthmore@gmail.com:mailto:wsrn.swarthmore@gmail.com
+UID:h2kt21r64p0cq5qg40jv7s6he0@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=mestre
+ r1@swarthmore.edu;X-NUM-GUESTS=0:mailto:mestrer1@swarthmore.edu
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=zamjad
+ 1@swarthmore.edu;X-NUM-GUESTS=0:mailto:zamjad1@swarthmore.edu
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=ahouli
+ h1@swarthmore.edu;X-NUM-GUESTS=0:mailto:ahoulih1@swarthmore.edu
+CREATED:20220919T215857Z
+DESCRIPTION:<html-blob>We play music and chat<br><br>Other hosts: Zara Amja
+ d\, Abby Houlihan<br><br></html-blob>
+LAST-MODIFIED:20220925T162802Z
+LOCATION:Parrish 4th
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Shaboom FM
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR
