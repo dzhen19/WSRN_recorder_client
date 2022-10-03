@@ -114,7 +114,8 @@ function App() {
       style={{
         background: "black",
         color: "white",
-        height: "100vh",
+        minHeight: "100vh",
+        height: "100%",
         fontFamily: "courier",
       }}
     >
@@ -149,7 +150,7 @@ function App() {
 
             setEmail("");
             setTitle("");
-            
+
             return false;
           }}
         >
