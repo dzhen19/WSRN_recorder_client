@@ -42,19 +42,26 @@ function App() {
   const [elapsed, setElapsed] = useState(0);
   const [siteLoadTime, setSiteLoadTime] = useState(Date.now());
 
+  const [down, setDown] = useState(false);
+
   useEffect(() => {
     axios({
       method: "GET",
       url: "http://130.58.238.153:5000/is_recording",
-    }).then((res) => {
-      const { is_recording } = res.data;
-      if (is_recording) {
-        const { email, timestamp } = res.data;
-        setOngoing({ email, timestamp });
-        // startCounting(timestamp);
-      }
-      setIsRecording(is_recording);
-    });
+    })
+      .then((res) => {
+        const { is_recording } = res.data;
+        console.log(res);
+        if (is_recording) {
+          const { email, timestamp } = res.data;
+          setOngoing({ email, timestamp });
+          // startCounting(timestamp);
+        }
+        setIsRecording(is_recording);
+      })
+      .catch(() => {
+        setDown(true);
+      });
   }, []);
 
   useEffect(() => {
@@ -121,6 +128,13 @@ function App() {
     >
       <div className={styles.content}>
         <h3>WSRN Recording Service - Studio A</h3>
+
+        {down && (
+          <div className={styles.par} style={{ color: "red" }}>
+            The recording service is down right now, please contact <> </>
+            <u>wsrn-dj-owner@sccs.swarthmore.edu</u> and we will fix it ASAP!
+          </div>
+        )}
         <div style={{ marginBottom: "20px" }}>
           This is a web recording service for WSRN [Worldwide Swarthmore Radio
           Network] DJs.{" "}
